@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This template uses `bun` as the JavaScript runtime but still requires `pnpm` and `node`.
+
+## Changelog
+
+- Update `cmdk` to `^1.0.4`
+- Update `react-day-picker` to `^9.4.4` (Encountered [this issue](https://github.com/gpbl/react-day-picker/issues/2451) during the update process)
+
 ## Getting Started
 
 First, run the development server:
